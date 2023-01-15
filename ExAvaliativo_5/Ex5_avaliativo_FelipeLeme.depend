@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1673322192 source:c:\users\fleme\desktop\ex5_avaliativo_felipeleme\main.c
+	<stdio.h>
+	<stdlib.h>
+
