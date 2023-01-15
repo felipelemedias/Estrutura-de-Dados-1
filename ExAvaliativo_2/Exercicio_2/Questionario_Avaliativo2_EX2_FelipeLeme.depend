@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668304666 source:c:\users\fleme\desktop\questionario_avaliativo2_ex2_felipeleme\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+
